@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sayam Sobti</h1>
 <h3 align="center">A passionate DevOps enthusiast!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2147021/screenshots/4704853/managertyping.gif">
+<center><img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1440899/screenshots/5286905/browserpreview_tmp-3.gif"><center>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayam1007&label=Profile%20views&color=0e75b6&style=flat" alt="sayam1007" /> </p>
+<center> <img src="https://komarev.com/ghpvc/?username=sayam1007&label=Profile%20views&color=0e75b6&style=flat" alt="sayam1007" /> </center>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayam1007" alt="sayam1007" /></a> </p>
+
 
 - 📝 I regularly write articles on [https://sayam-blogs.hashnode.dev/](https://sayam-blogs.hashnode.dev/)
 
@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayam1007&show_icons=true&locale=en&layout=compact" alt="sayam1007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayam1007&show_icons=true&locale=en" alt="sayam1007" /></p>
+
