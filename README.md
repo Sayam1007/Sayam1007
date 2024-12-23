@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayam Sobti</h1>
-<h3 align="center">A passionate DevOps enthusiast!</h3>
+<h3 align="center">Azure Infrastrucrure and DevOps Engineer!</h3>
 
 <center> <img src="https://komarev.com/ghpvc/?username=sayam1007&label=Profile%20views&color=0e75b6&style=flat" alt="sayam1007" /> </center>
 
